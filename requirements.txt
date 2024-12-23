@@ -1,0 +1,4 @@
+streamlit==1.38.0
+streamlit-autorefresh==1.0.1
+pandas==2.2.3, matplotlib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a23xd3m8b1/croot/matplotlib-suite_1693812470272/work
+matplotlib-inline @ file:///Users/cbousseau/work/recipes/ci_py311/matplotlib-inline_1677918241899/work
