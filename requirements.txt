@@ -3,7 +3,3 @@ streamlit-autorefresh
 numpy
 pandas
 matplotlib
-streamlit==1.38.0
-streamlit-autorefresh==1.0.1
-pandas==2.2.3
-matplotlib == 3.4.3
